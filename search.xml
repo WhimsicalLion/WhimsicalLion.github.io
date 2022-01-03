@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2021/11/14/hello-Hexo/"/>
-      <url>/2021/11/14/hello-Hexo/</url>
+      <title>【CANoe】设置CANoe作为gPTP时钟节点的方法</title>
+      <link href="/2022/01/03/%E8%AE%BE%E7%BD%AECANoe%E4%BD%9C%E4%B8%BAgPTP%E6%97%B6%E9%92%9F%E8%8A%82%E7%82%B9%E7%9A%84%E6%96%B9%E6%B3%95/"/>
+      <url>/2022/01/03/%E8%AE%BE%E7%BD%AECANoe%E4%BD%9C%E4%B8%BAgPTP%E6%97%B6%E9%92%9F%E8%8A%82%E7%82%B9%E7%9A%84%E6%96%B9%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>CANoe是德国Vetor公司推出的一款用于总线开发的设备，英文名全称为CAN open environment。一开始主要是用于CAN总线的开发、仿真、测试和分析。随着CANoe的更新，它也支持gPTP协议，仿真作为gPTP主时钟、从时钟等节点。</p><h2 id="创建CANoe工程"><a href="#创建CANoe工程" class="headerlink" title="创建CANoe工程"></a>创建CANoe工程</h2>]]></content>
       
       
       
